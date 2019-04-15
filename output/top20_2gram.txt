@@ -1,0 +1,22 @@
+
+Printing the top 20 words:
+  the  best : 8
+  in  the : 8
+  my  ipod : 8
+  thank  you : 7
+  my  new : 7
+  love  the : 7
+  love  you : 7
+  the  real : 7
+  am  so : 7
+  is  the : 7
+  i  love : 7
+  he  is : 7
+  to  the : 7
+  and  the : 7
+  miss  my : 7
+  and  you : 7
+  it  is : 7
+  and  i'm : 7
+  on  my : 7
+  was  the : 7

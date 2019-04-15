@@ -1,0 +1,28 @@
+
+Printing the top 25 words starting with @
+
+@ : 7829
+@jonasbrothers : 522
+@mileycyrus : 499
+@ddlovato : 397
+@tommcfly : 197
+@taylorswift13 : 173
+@davidarchie : 135
+@jonathanrknight : 135
+@mitchelmusso : 134
+@donniewahlberg : 131
+@songzyuuup : 112
+@selenagomez : 108
+@nkotb : 104
+@jordanknight : 102
+@peterfacinelli : 96
+@dougiemcfly : 94
+@dannymcfly : 93
+@twitter : 93
+@reply : 89
+@replies : 71
+@jackalltimelow : 69
+@joeymcintyre : 68
+@alexalltimelow : 68
+@mcflyharry : 64
+@souljaboytellem : 63

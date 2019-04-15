@@ -1,0 +1,33 @@
+
+Printing the top 30 words starting with #
+
+#followfriday : 1378
+#fb" : 1269
+#ff : 625
+#seb-day : 419
+# : 370
+#squarespace : 331
+#1 : 311
+#squarespace" : 278
+#followfriday" : 234
+#asot400" : 202
+#mcflyforgermany : 199
+#2 : 176
+#iranelection" : 171
+#iphone : 170
+#marsiscoming : 169
+#bsb" : 150
+#mileymonday : 141
+#iranelection : 139
+#fail : 132
+#fail" : 129
+#followfriday! : 125
+#delongeday : 124
+#musicmonday : 111
+#andyhurleyday : 95
+#e3 : 85
+#f1" : 83
+#bsb : 82
+#f1 : 81
+#bradiewebb : 81
+#spymaster : 79

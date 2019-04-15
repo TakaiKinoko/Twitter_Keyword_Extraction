@@ -1,0 +1,118 @@
+Buildfile: /home/fh643/textrank/build.xml
+
+clean:
+   [delete] Deleting directory /home/fh643/textrank/classes
+
+compile:
+    [mkdir] Created dir: /home/fh643/textrank/classes
+    [javac] Compiling 14 source files to /home/fh643/textrank/classes
+
+run:
+     [java] MessageLog.java:62 Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@6442b0a6
+     [java] TextRank.java:350 ELAPSED_TIME:	1570785	construct_graph
+     [java] Graph.java:144 iteration: 0 error: 0.12935962044759114
+     [java] Graph.java:144 iteration: 1 error: 0.09928334139104616
+     [java] Graph.java:144 iteration: 2 error: 0.04990124105336911
+     [java] Graph.java:144 iteration: 3 error: 0.03596025813009323
+     [java] Graph.java:144 iteration: 4 error: 0.01893485996887787
+     [java] Graph.java:144 iteration: 5 error: 0.013339691395199225
+     [java] Graph.java:144 iteration: 6 error: 0.0072756094487322325
+     [java] Graph.java:144 iteration: 7 error: 0.005026073055579079
+     [java] Graph.java:144 iteration: 8 error: 0.002814208318214612
+     [java] TextRank.java:350 ELAPSED_TIME:	12910	basic_textrank
+     [java] TextRank.java:191 TEXT_BYTES:	102596978
+     [java] TextRank.java:192 GRAPH_SIZE:	577706
+     [java] TextRank.java:350 ELAPSED_TIME:	1753	augment_graph
+     [java] Graph.java:144 iteration: 0 error: 145.63551221200834
+     [java] Graph.java:144 iteration: 1 error: 347.4156948054165
+     [java] Graph.java:144 iteration: 2 error: 301.5201582969889
+     [java] Graph.java:144 iteration: 3 error: 133.21735442208958
+     [java] Graph.java:144 iteration: 4 error: 131.036986009215
+     [java] Graph.java:144 iteration: 5 error: 50.53617392816166
+     [java] Graph.java:144 iteration: 6 error: 56.19282927683558
+     [java] Graph.java:144 iteration: 7 error: 18.475860152556372
+     [java] Graph.java:144 iteration: 8 error: 25.089974082658486
+     [java] Graph.java:144 iteration: 9 error: 6.2970899603058035
+     [java] Graph.java:144 iteration: 10 error: 11.88991750046282
+     [java] Graph.java:144 iteration: 11 error: 2.1839423817912444
+     [java] Graph.java:144 iteration: 12 error: 6.07549582291181
+     [java] Graph.java:144 iteration: 13 error: 1.3862775689331666
+     [java] Graph.java:144 iteration: 14 error: 3.374633738425196
+     [java] Graph.java:144 iteration: 15 error: 1.2389491927474496
+     [java] Graph.java:144 iteration: 16 error: 2.028040558601733
+     [java] Graph.java:144 iteration: 17 error: 1.0390583756402236
+     [java] Graph.java:144 iteration: 18 error: 1.298710712679086
+     [java] Graph.java:144 iteration: 19 error: 0.8170231304740774
+     [java] Graph.java:144 iteration: 20 error: 0.8700995555612895
+     [java] Graph.java:144 iteration: 21 error: 0.6190578850303439
+     [java] Graph.java:144 iteration: 22 error: 0.6004169926655347
+     [java] Graph.java:144 iteration: 23 error: 0.45949826990763876
+     [java] Graph.java:144 iteration: 24 error: 0.4220038470232329
+     [java] Graph.java:144 iteration: 25 error: 0.33714685147584533
+     [java] Graph.java:144 iteration: 26 error: 0.2999249234900664
+     [java] Graph.java:144 iteration: 27 error: 0.24575790833784616
+     [java] Graph.java:144 iteration: 28 error: 0.21458391468963225
+     [java] Graph.java:144 iteration: 29 error: 0.17847071993423316
+     [java] Graph.java:144 iteration: 30 error: 0.15413397084915126
+     [java] Graph.java:144 iteration: 31 error: 0.12932695595488053
+     [java] Graph.java:144 iteration: 32 error: 0.1109732357939288
+     [java] Graph.java:144 iteration: 33 error: 0.09359866216978283
+     [java] Graph.java:144 iteration: 34 error: 0.08000981650913537
+     [java] Graph.java:144 iteration: 35 error: 0.06769189207167604
+     [java] Graph.java:144 iteration: 36 error: 0.0577336125153597
+     [java] Graph.java:144 iteration: 37 error: 0.04893524955303447
+     [java] Graph.java:144 iteration: 38 error: 0.041680190493430115
+     [java] Graph.java:144 iteration: 39 error: 0.035367260862685164
+     [java] Graph.java:144 iteration: 40 error: 0.030099558986775007
+     [java] Graph.java:144 iteration: 41 error: 0.02555758512238802
+     [java] Graph.java:144 iteration: 42 error: 0.021740464334876725
+     [java] Graph.java:144 iteration: 43 error: 0.0184672714422542
+     [java] Graph.java:144 iteration: 44 error: 0.01570453619688266
+     [java] Graph.java:144 iteration: 45 error: 0.013343358583193366
+     [java] Graph.java:144 iteration: 46 error: 0.011345160112823178
+     [java] Graph.java:144 iteration: 47 error: 0.009640860626228804
+     [java] Graph.java:144 iteration: 48 error: 0.008196231995681185
+     [java] Graph.java:144 iteration: 49 error: 0.006965619402200346
+     [java] Graph.java:144 iteration: 50 error: 0.0059214653911610505
+     [java] Graph.java:144 iteration: 51 error: 0.005032686843431208
+     [java] Graph.java:144 iteration: 52 error: 0.004278104082824456
+     [java] TextRank.java:350 ELAPSED_TIME:	62494	ngram_textrank
+     [java] TextRank.java:350 ELAPSED_TIME:	2921	normalize_ranks
+     [java] TextRank.java:503 
+     [java] 0.4 0.0 1.0 0.0	i
+     [java] 0.3 0.0 0.63 0.0	day
+     [java] 0.2 0.0 0.4 0.0	home
+     [java] 0.2 0.0 0.38 0.0	work
+     [java] 0.2 0.0 0.37 0.0	time
+     [java] 0.1 0.0 0.35 0.0	today
+     [java] 0.1 0.0 0.35 0.0	love
+     [java] 0.1 0.0 0.23 0.0	thanks
+     [java] 0.1 0.0 0.23 0.0	way
+     [java] 0.1 0.0 0.23 0.0	fun
+     [java] 0.1 0.0 0.21 0.0	week
+     [java] 0.1 0.0 0.2 0.0	friend
+     [java] 0.1 0.0 0.2 0.0	bed
+     [java] 0.1 0.0 0.19 0.0	morning
+     [java] 0.1 0.0 0.19 0.0	hour
+     [java] 0.1 0.0 0.17 0.0	guy
+     [java] 0.1 0.0 0.16 0.0	haha
+     [java] 0.1 0.0 0.16 0.0	everyone
+     [java] 0.1 0.0 0.16 0.0	people
+     [java] 0.1 0.0 0.16 0.0	twitter
+     [java] 0.1 0.0 0.16 0.0	tomorrow
+     [java] 0.1 0.0 0.15 0.0	lot
+     [java] 0.1 0.0 0.15 0.0	school
+     [java] 0.1 0.0 0.15 0.0	wish
+     [java] 0.1 0.0 0.15 0.0	weekend
+     [java] 0.1 0.0 0.14 0.0	life
+     [java] 0.1 0.0 0.14 0.0	lol
+     [java] 0.1 0.0 0.14 0.0	night
+     [java] 0.1 0.0 0.14 0.0	something
+     [java] 0.1 0.0 0.14 0.0	hope
+     [java] 0.1 0.0 0.13 0.0	need
+     [java] 0.1 0.0 0.13 0.0	thing
+     [java] 0.1 0.0 0.12 0.0	phone
+     [java] 
+
+BUILD SUCCESSFUL
+Total time: 27 minutes 35 seconds

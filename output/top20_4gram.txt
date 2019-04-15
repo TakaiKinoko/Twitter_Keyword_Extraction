@@ -1,0 +1,22 @@
+
+Printing the top 20 words:
+  the  mtv  movie  awards : 10
+  have  a  great  day : 9
+  i  wish  i  was : 9
+  happy  mother's  day  to : 8
+  i  love  the  new : 8
+  but  i  have  to : 8
+  and  i  have  to : 8
+  i  wish  i  could : 8
+  "happy  fathers  day  to : 8
+  now  i  have  to : 7
+  the  new  moon  trailer : 7
+  mother's  day  to  all : 7
+  "  "watching  the  hills : 7
+  thank  you  for  the : 7
+  "happy  mother's  day  to : 7
+  "  "i  love  the : 7
+  wish  i  could  be : 7
+  thank  you  so  much : 7
+  mothers  day  to  all : 7
+  you  so  much  for : 7

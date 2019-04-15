@@ -1,0 +1,22 @@
+
+Printing the top 20 words:
+  i  love  the : 10
+  i  love  you : 10
+  but  i  did : 9
+  and  i  love : 9
+  is  the  best : 9
+  but  i  love : 9
+  but  i  am : 8
+  the  mtv  movie : 8
+  wish  i  was : 8
+  i  wish  i : 8
+  and  i  am : 8
+  wish  i  could : 8
+  have  a  great : 8
+  mtv  movie  awards : 8
+  but  i  have : 8
+  i  can't  wait : 8
+  "i  love  the : 8
+  day  to  all : 7
+  and  i  can't : 7
+  i  need  a : 7

@@ -1,0 +1,22 @@
+
+Printing the top 20 words:
+  love : 9
+  the : 8
+  this : 7
+  with : 7
+  and : 7
+  for : 7
+  lol : 7
+  you : 7
+  time : 6
+  iphone : 6
+  will : 6
+  good : 6
+  have : 6
+  not : 6
+  like : 5
+  xxxx" : 5
+  night : 5
+  infamous : 5
+  still : 5
+  wish : 5
